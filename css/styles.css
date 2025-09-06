@@ -138,7 +138,7 @@ img {
     display: block;
     border-radius: 4px;
     padding: 16px 32px;
-    width: 169px;
+    min-width: 169px;
     height: 56px;
     border: none;
     margin: 0 auto;
@@ -170,6 +170,9 @@ img {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
+}
+
+.advantages-title {
     margin-bottom: 8px;
 }
 
