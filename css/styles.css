@@ -228,7 +228,6 @@ img {
     background: #fff;
     width: calc((100% - 3 * 24px) / 4);
     border-radius: 0 0 4px 4px;
-    padding: 0px 0px 32px;
 }
 
 .team-card {
